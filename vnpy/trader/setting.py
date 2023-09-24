@@ -25,9 +25,9 @@ SETTINGS: Dict[str, Any] = {
     "email.sender": "",
     "email.receiver": "",
 
-    "datafeed.name": "",
-    "datafeed.username": "",
-    "datafeed.password": "",
+    "datafeed.name": "tushare",
+    "datafeed.username": "nocent@126.com",
+    "datafeed.password": "d625a47fb0ff5ab7b563025a2d2e230af6f71667e6d53dd23102d084",
 
     "database.timezone": get_localzone_name(),
     "database.name": "sqlite",
